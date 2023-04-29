@@ -18,7 +18,7 @@ paginate = 5
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -39,7 +39,7 @@ paginate = 5
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "favicon.ico"
+  #favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -105,7 +105,7 @@ paginate = 5
     owner = "Pablo Bernardo"
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
+    menuMore = "Redes"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
@@ -124,10 +124,17 @@ paginate = 5
         identifier = "sobremi"
         name = "Sobre mi"
         url = "/sobre-mi"
+        weight = 1
       [[languages.es.menu.main]]
         identifier = "linkedin"
         name = "::Linkedin::"
-        url = ""
+        url = "https://www.linkedin.com/in/pablobernardo/"
+        weight = 2
+      [[languages.es.menu.main]]
+        identifier = "github"
+        name = "::github::"
+        url = "https://github.com/iampbernardo"
+        weight = 2
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
