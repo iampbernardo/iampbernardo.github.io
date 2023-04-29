@@ -15,7 +15,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "purple"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -39,7 +39,7 @@ paginate = 5
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -124,6 +124,10 @@ paginate = 5
         identifier = "sobremi"
         name = "Sobre mi"
         url = "/sobre-mi"
+      [[languages.es.menu.main]]
+        identifier = "linkedin"
+        name = "::Linkedin::"
+        url = ""
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
