@@ -1,3 +1,8 @@
-.content a {
+.post-meta,
+.post-content a{
   color: #23B0FF;
+}
+
+.post-title{
+  color: #FFFFFF;
 }
