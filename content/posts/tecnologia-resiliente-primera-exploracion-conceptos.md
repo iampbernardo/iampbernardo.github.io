@@ -1,6 +1,6 @@
 +++
 title = "Tecnología resiliente: Una primera exploración de conceptos"
-date = "2023-04-30T23:59:55+02:00"
+date = "2023-04-30T22:59:55+02:00"
 author = "Pablo"
 # authorTwitter = "" #do not include @
 cover = "/img/retro_futuristic_desktop_setup.jpeg"
