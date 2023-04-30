@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = true
 hideComments = true
 #color = "" #color from the theme settings
-draft = true
+draft = false
 +++
 
 Últimamente he estado explorando formas de usar la tecnología de manera más eficaz y enfocada, sin dejar de lado su valor como fuente de entretenimiento. 
