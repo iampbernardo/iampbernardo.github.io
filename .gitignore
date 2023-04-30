@@ -1,2 +1,6 @@
 .hugo_build.lock
 resources/_gen/assets/scss/css
+assets/.DS_Store
+content/.DS_Store
+static/.DS_Store
+.DS_Store
