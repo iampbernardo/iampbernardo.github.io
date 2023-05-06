@@ -120,11 +120,11 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.es.menu]
-      [[languages.es.menu.main]]
-        identifier = "sobremi"
-        name = "Sobre mi"
-        url = "/sobre-mi"
-        weight = 1
+#      [[languages.es.menu.main]]
+#        identifier = "sobremi"
+#        name = "Sobre mi"
+#        url = "/sobre-mi"
+#        weight = 1
       [[languages.es.menu.main]]
         identifier = "linkedin"
         name = "::Linkedin::"
