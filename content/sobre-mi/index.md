@@ -1,7 +1,7 @@
 ---
 title: "Sobre Mi"
 date: 2023-04-29T15:08:38+02:00
-draft: false
+draft: true
 ---
 👋 ¡Hola! **Soy Pablo**.
 
