@@ -1,2 +1,2 @@
-# iampbernardo.github.io
+# pablobernardo.tech
 My personal site: Made with 🧉 &amp; 💚
