@@ -1,6 +1,6 @@
 +++
 title = "Por qué y cómo quiero aprender Ciencias de la Computación si ya no me dedico a programar"
-date = "2023-05-06T11:51:34+02:00"
+date = "2023-05-07T08:51:34+02:00"
 author = "Pablo Bernardo"
 #authorTwitter = "" #do not include @
 cover = ""
