@@ -18,6 +18,8 @@ Aunque todavía trabajo en el mundo de la tecnología y, de vez en cuando, me l�
 
 ¿Por qué me interesa profundizar en este tema si ya no lo necesito para mi trabajo? Pues hay varias razones. Primero, porque creo en el aprendizaje continuo y la expansión de conocimientos. Segundo, porque cuando tenía unos nueve años, tomé un curso de programación en BASIC, pero no fue hasta mis treinta años que decidí dedicarme a la programación de verdad.
 
+> A día de hoy es perfectamente posible con disciplina, tener una educación en Ciencias de la Computación de alto nivel si los títulos y diplomas no son prioritarios para ti. Es el mismo enfoque que Josh Kaufman se plantea en [MBA Personal](https://amzn.to/3VCjLiH) enfocado a la formación de negocio.
+
 ## Aprendo por placer, por mi visión del mundo, pero no de cualquier forma
 
 Nunca he llevado muy bien comerme programas enteros de formación. El aprendizaje "just in time" es lo mío. Sabes lo que es eso? Pues básicamente se trata de aprender solo lo que necesitas en el momento, sin tener que pasar años estudiando para conseguir un título o una pila de conocimientos sólo por si algún día te hacen falta o porque alguien decidió hace años estructurar así el programa. Eso sí, una desventaja del aprendizaje "just in time" es que a veces puedes quedar huecos de conocimiento. Para mí generalmente esto no ha supuesto ningún problema porque no camino la ruta del especialista.
