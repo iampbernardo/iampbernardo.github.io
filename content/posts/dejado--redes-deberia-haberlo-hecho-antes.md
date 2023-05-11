@@ -45,29 +45,45 @@ Y sobre todo, como con otras adicciones, sean físicas o sicológicas (aunque to
 
 Voy a dejar por aquí un par de recursos que a mí me hicieron reflexionar y ver las cosas con otra perspectiva.
 
-- [Minimalismo Digital](https://amzn.to/3WaKdQR), de Cal Newport.
+- [Minimalismo Digital](https://amzn.to/3WaKdQR), de Cal Newport:
 
 Este libro fue la primera lectura, hace ya años, que me hizo pensar que quizá no era todo como yo lo estaba percibiendo y que había una explicación detrás de mis incomodidades.
 
 Explora varios puntos y plantea maneras de dejar o racionalizar el uso de redes y distracciones digitales. Un análisis que a estas alturas a nadie le sonará muy novedoso pero que yo invito a explorar en profundidad. Por favor no te quedes con unos de esos resúmenes de tres minutos en YouTube porque, en mi opinión, se dejan en el tintero algunas de las reflexiones claves de lo que Newport plantea.
 
-- [El dilema de las redes](https://www.youtube.com/watch?v=tBnNuJSs6P0)
+- [El dilema de las redes](https://www.youtube.com/watch?v=tBnNuJSs6P0) (documental de Netflix):
+
+
 El documental, de nuevo, probablemente plantea cosas que a estas alturas no son una sorpresa. Cómo funcionan los algoritmos de recomendación de redes y por qué. 
 
 Aún así, aunque tengas una cierta idea de ello, yo recomendaría snetarse a verlo. Sin prejuicios ni cinismo. Escucha lo que tienen que decir, contrastasr con tu experiencia y plantearse si hay algún aprendizaje ahí.
 
 - [Diez razones para borrar tus redes sociales de inmediato](https://amzn.to/3Mi7PPQ) de Jaron Lanier
+
 El más radical de todos y el que más me impactó. Este libro sí fue el que me hizo dejar mi cuenta de Instagram en reposo unos meses antes de borrarla y borrar Twitter durante seis meses. Ahora, cada vez que pienso en redes, me viene este libro a la cabeza y me dan escalofríos sólo de pensar en volver a abrirme una cuenta.
 
 Con todo y con esto, como digo, yo he necesitado salir por completo para tener una mejor percepción de lo bizarra que es toda la situación en redes sociales.
 
 ## Reflexiones anteriores
-Como muestra un botón. En Octubre de 2014, en uno de mis antiguos blogs, escribí un artículo que se titulaba "¿Estamos destrozando las redes sociales?"
+Como muestra un botón. En Octubre de 2014, en uno de mis antiguos blogs, escribí un artículo que se titulaba "¿Estamos destrozando las redes sociales?".
 
-Mi visión ahí era que las redes sociales tenían un potencial enorme de 
+Mi visión ahí era que las redes sociales tenían un potencial enorme de generar conexiones interesantes, ser un lugar de tensión creativa y más.
 
+Pero, tenía ya estas reservas sobre el rumbo que Twitter estaba tomando, desde mi punto de vista.
+
+>Entrar en Twitter a cualquier momento del día se convierte a menudo en encontrarse una larga lista de mensajes que en su gran mayoría se dividen principalmente en:
+> - Ristra de enlaces temáticos que no necesitamos porque ya hace años que tenemos RSS y Newsletters temáticas.
+> - Mensajes con la última proeza profesional de más de uno, tratando de dejarnos claro que es el profesional que la tiene más larga y que en su empresa todos son super pro y todo se hace mejor que en ningún sitio.
+> - Quejas lanzadas al aire sin mencionar al implicado o incluso insultos gratuitos.
+> - Otra modalidad del anterior, el de la persona que se queja de todo y critica todo lo que tuitean las personas a las que sigue. Este creo que es el tipo de usuario que no conoce la posibilidad del “unfollow” o el ya no me gusta.
+> - Y este creo que es mi favorito, seguido de cerca por el troll y el bot absurdo que sólo pone enlaces … las marcas que solo vomitan slogans y eventos sin contestar a sus lectores ni generar ningún tipo de conversación más allá de la que tienen calculada y planeada.
 
 ## Qué pasa ahora y dónde encontrarme
+Además de Linkedin, que como decía sólo uso por razones profesionales, no se trata de que uso ninguna herramienta online ni consumo contenido online. Lo que sí he dedicido es dar a mi presencia online un enfoque con mucha más intención, más reposado y enfocado.
+
+Estoy usado este blog para publicar reflexiones y, por otro lado, usando más Github para interacciones más púramente técnicas.
+
+Y ya está, eso es todo. El resto para mí son méramente herramientas o material de consulta. Me parece súper importante desarrollar esa idea: qué son herramientas y material de consulta frente a lo que es entretenimiento. Si no está claro y se difuminan demasiado los límites, empieza el jaleo.
 
 
 ## Volver a bloguear
