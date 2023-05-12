@@ -1,10 +1,9 @@
-+++
+---
 title = "He dejado las redes sociales. Y lo había visto venir"
 date = "2023-05-14T07:30+02:00"
 author = "Pablo Bernardo"
-# authorTwitter = "" #do not include @
 cover = ""
-tags = ["redes", "post-antiguo"]
+tags = ["redes"]
 keywords = ["", ""]
 description = "Un pequeño recorrido de cómo, cuando y por qué de dejado las Redes Socialets"
 showFullContent = false
@@ -12,7 +11,7 @@ readingTime = true
 hideComments = false
 # color = "" #color from the theme settings
 draft = false
-+++
+---
 
 He dejado las Redes Sociales.
 
