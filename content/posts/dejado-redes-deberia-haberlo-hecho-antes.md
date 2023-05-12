@@ -10,7 +10,7 @@ showFullContent = false
 readingTime = true
 hideComments = false
 # color = "" #color from the theme settings
-draft = true
+draft = false
 +++
 
 He dejado las Redes Sociales.
