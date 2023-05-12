@@ -1,15 +1,15 @@
 +++
-title = "He dejado las redes sociales. Y lo había visto venir"
-date = "2023-05-14T07:30+02:00"
-author = "Pablo Bernardo"
+title = "He Dejado Redes"
+date = "2023-05-14T07:30:10+02:00"
+author = ""
 cover = ""
-tags = ["redes"]
+tags = ["redes sociales", ""]
 keywords = ["", ""]
-description = "Un pequeño recorrido de cómo, cuando y por qué de dejado las Redes Socialets"
+description = "Por qué, cómo y cuando he dejado las Redes Sociales"
 showFullContent = false
 readingTime = true
 hideComments = false
-# color = "" #color from the theme settings
+color = "" #color from the theme settings
 draft = false
 +++
 
