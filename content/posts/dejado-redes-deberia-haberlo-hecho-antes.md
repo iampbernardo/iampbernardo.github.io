@@ -85,6 +85,11 @@ Estoy usado este blog para publicar reflexiones y, por otro lado, usando más Gi
 
 Y ya está, eso es todo. El resto para mí son méramente herramientas o material de consulta. Me parece súper importante desarrollar esa idea: qué son herramientas y material de consulta frente a lo que es entretenimiento. Si no está claro y se difuminan demasiado los límites, empieza el jaleo.
 
-
 ## Volver a bloguear
+No estar pendiente de redes y no acudir allí a promocionar lo que escribo, curiósamente me ha devuelto el placer de, símplemente, bloguear.
 
+Cuanto escribo este post, alguno de los anteriores o preparo el borrador de alguno por llegar, no estoy pensando en quién lo va a leer. No estoy pendiente de si alguien me va a corregir, y probablemente de aquella manera, a los diez minutos de poner el enlace. Sé que no tendré que verme envuelto en discusiones interminables...
+
+En resumen, puedo escibir símplemente disfrutnado de los placeres de escribir, compartir, desarrollar ideas, conectar conceptos y lo que venga.
+
+Sé que quizá esto cambie en el futuro, que vuelva a plantearme objetivos para el blog, que quizá lleguen de nuevo las estratégias de contenido, quién sabe. Lo que sé es que ahora, me apetece volver a relacionarme a traves del blog como lo hacía cuando empecé. Recuperar el espíritu de un blog.
