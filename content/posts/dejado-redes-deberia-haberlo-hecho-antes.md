@@ -6,12 +6,11 @@ author = "Pablo Bernardo"
 cover = ""
 tags = ["redes", "post-antiguo"]
 keywords = ["", ""]
-description = "Un pequeño recorrido de cómo, cuando y por qué de dejado las Redes Sociales"
+description = "Un pequeño recorrido de cómo, cuando y por qué de dejado las Redes Socialets"
 showFullContent = false
 readingTime = true
 hideComments = false
 # color = "" #color from the theme settings
-draft = false
 +++
 
 He dejado las Redes Sociales.
