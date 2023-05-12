@@ -1,17 +1,17 @@
 +++
 title = "He dejado las redes sociales. Y lo había visto venir"
-date = "2023-05-10:00:52+02:00"
+date = "2023-05-14:07:30+02:00"
 author = "Pablo Bernardo"
 # authorTwitter = "" #do not include @
 cover = ""
 tags = ["redes", "post-antiguo"]
 keywords = ["", ""]
-description = ""
+description = "Un pequeño recorrido de cómo, cuando y por qué de dejado las Redes Sociales"
 showFullContent = false
 readingTime = true
 hideComments = false
-color = "" #color from the theme settings
-draft = true
+# color = "" #color from the theme settings
+draft = false
 +++
 
 He dejado las Redes Sociales.
@@ -20,7 +20,7 @@ Hablemos claro. Sabiendo que hace mucho que no estaba cómodo con ellas, yo creo
 
 ## Mi periplo por las Redes (sobre todo Twitter): una introducción
 
-En Facebook cerré mi cuenta hace años porque, como red social, ya me parecía  superinstrusiva e increíblemente ruidosa. Esta me costó cero. No había nada ahí para mí. Sólo volví a abrir una cuenta nueva unos meses  temporalmente para poder acceder al grupo de soporte de un curso que estába haciendo.
+En Facebook cerré mi cuenta hace años porque, como red social, ya me parecía  superinstrusiva e increíblemente ruidosa. Esta me costó cero. No había nada ahí para mí. Sólo volví a abrir una cuenta nueva unos meses emporalmente para poder acceder al grupo de soporte de un curso que estába haciendo.
 
 Instagram me generaba mucho agobio, desde hace un tiempo, porque me he descubierto a mí mismo demasiadas veces haciendo scroll sin parar diruante más de media hora, sacando el móvil para no aburrirme de pie delante de un semáforo, en la consulta del médico o a veces a ratos en la mesa.
 
