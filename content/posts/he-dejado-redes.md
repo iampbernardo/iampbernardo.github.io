@@ -1,7 +1,7 @@
 +++
-title = "He Dejado Redes"
+title = "He dejado las Redes Sociales"
 date = "2023-05-14T07:30:10+02:00"
-author = ""
+author = "Pablo Bernardo"
 cover = ""
 tags = ["redes sociales", ""]
 keywords = ["", ""]
