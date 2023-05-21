@@ -1,6 +1,6 @@
 +++
 title = "Macbook: Dos gestores de paquetes para una instalación más automatizada"
-date = "2023-05-21T:07:30+02:00"
+date = "2023-05-21T08:51:34+02:00"
 author = "Pablo Bernardo"
 authorTwitter = "" #do not include @
 cover = ""
@@ -49,7 +49,4 @@ Eso sí, para trabajar con mas-cli, conviene tener presentes un par de cosas.
 La primera es que puedes hacer búsquedas por nombre de aplicación desde la consola, pero de cara a la gestión posterior de lo paquestes, esto es instalación, actualizaciones, desinstalaciones y demás, mas hace uso del id de la aplicación en el App Store. Te recomiendo que eches un ojo a la documentación para que no tene pase como a mi con el primer par de instalaciones. Puedes sacar la ``id`` con un ``mas search [nombre de la app]`` y no hace falta ir a buscarlo a la url de la applicación en el navegador; sí, lo sé, a la segunda me di cuenta de que no tenía sentido.
 
 La segunda, debido a algunos cambios en el sistema de macOS, a día de hoy hace flata loguearse en tu cuenta de icloud a través de interfaz gráfica para la gestión de las aplicaciones de App Store. Es un mal menor pero estaría muy bien si consiguieran hacerlo funcionar de nuevo en las versiones más recientes del sistema.
-
-
-
 
